@@ -1,0 +1,47 @@
+/*Hassan Kobeissi - Projects Page - 300847239*/
+html {
+	/*background-color: #FF8000;*/ font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+	background: url(../Assets/Images/background.jpg);width:1024px; margin-left:auto; margin-right:auto;
+}
+.Header {
+	width: 1022px; height: 87px; border: medium black solid; background-color: white;
+}
+.T1 {
+	padding-left: 200px;
+}
+.Content {
+	margin-top: 3px;
+	border: 2px solid #a1a1a1;
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 930px;
+    border-radius: 25px;
+	}	
+
+	/*Project  Screenshots*/
+	.Scr {
+		width: 325px; padding-left: 100px;
+	}
+	.Scr2 {
+		width: 325px;
+		padding-left: 90px;
+	}
+	.Scr3 {
+		width: 325px;
+		padding-top: 30px;
+		padding-left: 90px; 
+	}
+	.Scr4 {
+		width: 325px;
+		padding-left: 100px;
+	}
+	/* Link Styling*/	
+	a:visited {
+		color: blue;
+	}
+	a:hover {
+		color: #FF8000;
+	}
+	
